@@ -2,7 +2,7 @@
 from random import randint
 import requests
 
-#Bruteforce information
+# Bruteforce information
 password_file = '/usr/share/wordlists/rockyou.txt'
 rate_limit = 5
 error_rate_limit = 'Blacklist protection'
